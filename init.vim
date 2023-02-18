@@ -107,7 +107,7 @@ set backspace=2 " 解决 backspace 按键删除的问题 http://cenalulu.github.
 set cursorline " 突出显示当前行
 "set cursorcolumn " 突出显示当前列
 set clipboard+=unnamed " 共享剪贴板 http://www.vitah.net/posts/9ddf2fa9/
-set encoding=utf-8
+set encoding=UTF-8
 set fileencoding=utf-8
 set fileformat=unix "从Win上复制文件时，避免换行符错误
 set hlsearch " 搜索时高亮显示被找到的文本
